@@ -1,0 +1,1 @@
+poc de testes de api com cypress, utilizando api gerada no repo https://github.com/henriquetmartins/api-example

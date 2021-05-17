@@ -1,0 +1,15 @@
+{
+  "name": "cy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "open:local": "cypress open --env configFile=local"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^7.3.0"
+  }
+}
